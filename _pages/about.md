@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Bit Flipper
 
 profile:
   align: right
   image: red_herring_transparent.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>A Place In Time</p>
+    <p><center>A Place In Time</center></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
