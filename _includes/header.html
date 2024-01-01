@@ -63,8 +63,7 @@
               {%- assign has_active_child = true -%}
               {%- endif -%}
               {%- endfor -%}
-              <!-- Uncomment the below block to activate the submenu dropdown -->
-              <!-- <li class="nav-item dropdown {% if page.title == p.title or has_active_child %}active{% endif %}">
+              <li class="nav-item dropdown {% if page.title == p.title or has_active_child %}active{% endif %}">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
                   {%- if page.title == p.title or has_active_child -%}
                   <span class="sr-only">(current)</span>
@@ -79,7 +78,7 @@
                   {%- endif -%}
                   {% endfor %}
                 </div>
-              </li> -->
+              </li>
               {%- else %}
               <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
                 {%- if p.permalink contains '/blog/' %}

@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jai Veilleux",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://didgety.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "",
       "countryCode": "US",
-      "region": "California"
+      "region": ""
     },
     "profiles": [
       {
@@ -49,12 +49,12 @@
     }],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
+      "institution": "University of Vermont",
+      "location": "Vermont, USA",
+      "url": "https://www.uvm.edu/",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2023-08-28",
       "endDate": "1905-01-01",
       "score": "10",
       "courses": [
@@ -151,12 +151,12 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker"
+      "fluency": "Native speaker",
       "icon":""
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
       "icon":""
     }
   ],

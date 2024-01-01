@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Bit Flipper
+subtitle: <b>Bit Flipper</b>
 
 profile:
   align: right
@@ -11,28 +11,21 @@ profile:
   more_info: >
     <p><center>A Place In Time</center></p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
 Welcome to my portfolio site. 
 
-I am currently a Senior studying computer science at the University of Vermont. 
+I am currently a Senior majoring in computer science and minoring in physics at the University of Vermont. 
 
 My interests lie in distributed computing, quantum computing, networking, and realtime graphical programming.
 
-Recent projects include a DNS server and roguelike videogame written in Rust.
+Recent projects include development of a DNS server and roguelike videogame written in Rust.
 
-In Spring 2023, I completed an undergraduate research project exploring eavesdropping detection and error rates in optical networks as part of the Edmonds College Physics deparment.
+In Spring 2023, I completed an [undergraduate research project](/blog/2023/qkd_research_project) exploring eavesdropping detection and error rates in optical networks as part of the Edmonds College Physics deparment.
 
-Previously, I have worked in customer support where I developed automation tools and infrastructure for the department in addition to handling regular support tickets (2021 - 2022). 
+Previously, I have worked in IT support where I developed automation tools and infrastructure for the department in addition to handling regular support tickets (2021 - 2022). The position I was in required lots of network debugging and use of REST API's.
 
-In my free time I enjoy creating realtime generative artworks, getting out in nature, winter sports,
-
--- WIP --
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time I enjoy creating realtime generative artworks, getting out in nature, winter sports, and trying new foods.
