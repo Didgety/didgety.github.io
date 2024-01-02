@@ -28,4 +28,4 @@ In Spring 2023, I completed an [undergraduate research project](/blog/2023/qkd_r
 
 Previously, I have worked in IT support where I developed automation tools and infrastructure for the department in addition to handling regular support tickets (2021 - 2022). The position I was in required lots of network debugging and use of REST API's.
 
-In my free time I enjoy creating realtime generative artworks, getting out in nature, winter sports, and trying new foods.
+In my free time I enjoy creating realtime generative artworks, getting out in nature, winter sports, going to concerts, and trying new foods.

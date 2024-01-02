@@ -9,4 +9,3 @@ categories:
 
 - Link to videos
 - Include glsl code
-- Explain touchdesigner basics
