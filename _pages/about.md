@@ -22,7 +22,7 @@ I am currently a Senior majoring in computer science and minoring in physics at 
 
 My interests lie in distributed computing, quantum computing, networking, and realtime graphical programming.
 
-Recent projects include development of a DNS server and roguelike videogame written in Rust.
+Recent projects include development of a [DNS server](/blog/2023/dns_server/) and [roguelike videogame](blog/2023/rusted_rogue/) written in Rust.
 
 In Spring 2023, I completed an [undergraduate research project](/blog/2023/qkd_research_project) exploring eavesdropping detection and error rates in optical networks as part of the Edmonds College Physics deparment.
 
