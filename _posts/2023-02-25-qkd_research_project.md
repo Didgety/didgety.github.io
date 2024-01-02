@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Quantum Computing - Eavesdropping Detection & Error Loss in Optical Networks
+title:  Quantum Computing - Eavesdropping Detection and Information Loss in Optical Networks
 date:   2023-06-16
-description: Undergraduate research as part of the Edmonds College Physics department
+description: Undergraduate research project as part of the Edmonds College Physics department
 tags:
 categories:
 ---
