@@ -2,12 +2,12 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Links to my GitHub profile and the source code of my projects
+description: Some of my favorite projects
 nav: true
 nav_order: 4
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats -->
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -33,7 +33,7 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
-## Featured GitHub Repositories
+<!-- ## Featured GitHub Repositories -->
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

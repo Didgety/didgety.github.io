@@ -17,6 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to my portfolio site. 
 
+[Projects](blog/) contains information about my work in a completed or semi-completed state. [Repositories](repositories/) contains links to my favorite projects source code.  
+
 I am currently a Senior majoring in computer science and minoring in physics at the University of Vermont. 
 
 My interests lie in distributed computing, quantum computing, networking, and [realtime graphical programming.](blog/2023/chladni_plate_simulation)
