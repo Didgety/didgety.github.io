@@ -88,6 +88,6 @@ At this point, I have a 2D texture with all the information needed to create a p
 
 It's got a bit of flashing from the automation being applied - but that is used when more effects are applied. The magic of TouchDesigner is layering your components to get really interesting visual effects. After experimenting with this base for a while, I hooked up one of my favorite effects to some music to create an audioreactive animation being rendered in real time. Information was extracted from specific frequencies of the audio to drive different parameters. For example, the kick drum for this song was read slightly below 100Hz to power the pulsing animation change.
 
-Resolution is limited since I used the educational license of TouchDesigner.  
+Resolution is limited since I used the Non-Commercial license of TouchDesigner.  
 
 {% include video.html path="https://www.youtube.com/embed/3auqchAobKA" width=800 height=450 %}
