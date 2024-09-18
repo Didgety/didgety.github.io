@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Bit Flipper</b>
+subtitle: <b>Superposition Specialist</b> # old names: [Bit Flipper]
 
 profile:
   align: right
@@ -21,9 +21,11 @@ Welcome to my portfolio site.
 
 I am currently a Senior majoring in computer science and minoring in physics at the University of Vermont. 
 
-My interests lie in distributed computing, quantum computing, networking, and [realtime graphical programming.](blog/2023/chladni_plate_simulation)
+My interests lie in quantum computing, distributed computing, networking, and [realtime graphical programming.](blog/2023/chladni_plate_simulation)
 
-Recent projects include development of a [DNS server](/blog/2023/dns_server/) and [roguelike videogame](blog/2023/rusted_rogue/) using Rust.
+Most recently, I spent Summer 2024 studying [Quantum Information Science](/blog/2024/summer_quantum_programs) at Brookhaven and Oak Ridge national labs.
+
+Some of my projects include development of a [DNS server](/blog/2023/dns_server/) and [roguelike videogame](blog/2023/rusted_rogue/) using Rust.
 
 In Spring 2023, I completed an [undergraduate research project](/blog/2023/qkd_research_project) exploring eavesdropping detection and error rates in optical networks as part of the Edmonds College Physics Department.
 

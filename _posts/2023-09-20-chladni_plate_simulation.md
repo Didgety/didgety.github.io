@@ -7,7 +7,7 @@ tags:
 categories:
 ---
 
-Chladni patterns are cool. I first read about them on Paul Bourke's [blog](https://paulbourke.net/geometry/chladni/). Essentially, they are patterns that arise from certain frequencies on a bounded surface. The classic example is a violin bow pulled across the edge of a metal plate with salt on it.
+Chladni patterns are cool. I first read about them on [Paul Bourke's blog](https://paulbourke.net/geometry/chladni/). Essentially, they are patterns that arise from certain frequencies on a bounded surface. The classic example is a violin bow pulled across the edge of a metal plate with salt on it.
 
 {% include video.html path="https://www.youtube.com/embed/lRFysSAxWxI" width=800 height=450 %}
 
@@ -15,7 +15,7 @@ Chladni patterns fall under the umbrella of the field of cymatics. There are sim
 
 The equation for Chladni patterns on a rectangular bounded surface is given by:
 
-$$ \cos(\frac{n\pi x}{L})\cdot\cos(\frac{m\pi y}{L}) - \cos(\frac{m\pi x}{L})\cdot\cos(\frac{n\pi y}{L}) = 0 $$
+$$ \Bigl[\cos\left(\frac{n\pi x}{L}\right)\cdot\cos\left(\frac{m\pi y}{L}\right)\Bigr] - \Bigl[\cos\left(\frac{m\pi x}{L}\right)\cdot\cos\left(\frac{n\pi y}{L}\right)\Bigr] = 0 $$
 
 This equation was recreated using the [Math](https://derivative.ca/UserGuide/Math_CHOP) and [Function](https://docs.derivative.ca/Function_CHOP) CHOPs in [TouchDesigner](https://derivative.ca/). Adding two more channels allowed it to be represented as a 2D texture using [CHOP to TOP](https://docs.derivative.ca/CHOP_to_TOP). A few more tweaks to clean up the texture and a nice normal map was created using the [Normal Map](https://docs.derivative.ca/Normal_Map_TOP) TOP. The normal map provides the velocity at any given point in the texture.
 

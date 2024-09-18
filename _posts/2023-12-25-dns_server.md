@@ -7,7 +7,7 @@ tags:
 categories:
 ---
 
-DNS has given me headaches ever since I first set up my first Minecraft server back in 2010. I decided learning more about the protocol and implementing it for myself would be a good project.
+DNS is a rather enigmatic protocol, but it is a key piece of our modern life. After wrestling with some dns issues I decided learning more about the protocol and implementing it myself would be a fun project so I set to work using Rust!
 
 This project made me significantly more comfortable working at the bit level and using bitwise operations. 
 
