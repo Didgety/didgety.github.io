@@ -25,16 +25,23 @@
   "education": [
     {
       "institution": "University of Vermont",
-      "location": "Vermont, USA",
+      "location": "Burlington, VT, USA",
       "url": "https://www.uvm.edu/",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2023-08-28",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "2023-08",
+      "endDate": "2025-05",
+      "score": "10"
+    },
+    {
+      "institution": "Edmonds College",
+      "location": "Lynnwood, WA, USA",
+      "url": "https://www.uvm.edu/",
+      "area": "Computer Science",
+      "studyType": "A.A.",
+      "startDate": "2021",
+      "endDate": "2023",
+      "score": "10"
     }
   ],
   "work": [
@@ -48,27 +55,6 @@
       "highlights": [
         "Relativity"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
-      ]
-    }],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
@@ -125,39 +111,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon":""
-    },
-    {
-      "language": "Japanese",
-      "fluency": "Conversational",
-      "icon":""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
   "projects": [
     {
       "name": "Quantum Computing",
@@ -169,6 +122,27 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon":""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Conversational",
+      "icon":""
     }
   ]
 }
