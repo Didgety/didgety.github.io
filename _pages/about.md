@@ -41,7 +41,7 @@ Some of my projects include development of an [efficient weighted sampling data 
 
 My quantum computing journey began in Spring 2023 when I completed an [undergraduate research project](/blog/2023/qkd_research_project) exploring eavesdropping detection and error rates in optical networks as part of the Edmonds College Physics Department.
 
-I spent the Summer of 2024 studying [quantum information science](/blog/2024/summer_quantum_programs) at Brookhaven and Oak Ridge national labs.
+I spent the Summer of 2024 studying quantum information science at Brookhaven and Oak Ridge national labs.
 
 In Spring 2025 I created a [framework](https://github.com/Didgety/qpgf) for analyzing the distribution of errors in quantum circuits 
 given real hardware data by utilizing probability generating functions as a final project for a complex systems class.
