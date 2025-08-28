@@ -1,8 +1,9 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: Reading Nook
 permalink: /books/
-nav: false
+nav: true
+nav_order: 6
 collection: books
 ---
 
