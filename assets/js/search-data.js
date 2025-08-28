@@ -37,59 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-a-rusty-dns-server",
+        },{id: "post-a-post-with-formatting-and-links",
         
-          title: "A Rusty DNS Server",
+          title: "a post with formatting and links",
         
-        description: "Capable of handling a variety of record types, using external resolvers, and recursively resolving queries",
+        description: "march &amp; april, looking forward to summer",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/dns_server/";
-          
-        },
-      },{id: "post-rusted-rogue-an-ascii-roguelike-game",
-        
-          title: "Rusted Rogue - An ASCII Roguelike Game",
-        
-        description: "Written using Rust, this game utilizes a variety of algorithms to procedurally generate levels",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/rusted_rogue/";
-          
-        },
-      },{id: "post-chladni-plate-particle-simulation",
-        
-          title: "Chladni Plate Particle Simulation",
-        
-        description: "Visualizing some fun physics phenomena",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/chladni_plate_simulation/";
-          
-        },
-      },{id: "post-quantum-computing-eavesdropping-detection-and-information-loss-in-optical-networks",
-        
-          title: "Quantum Computing - Eavesdropping Detection and Information Loss in Optical Networks",
-        
-        description: "Undergraduate research project as part of the Edmonds College Physics Department",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/qkd_research_project/";
-          
-        },
-      },{id: "post-fourier-analysis-presentation",
-        
-          title: "Fourier Analysis Presentation",
-        
-        description: "A presentation given for the Western Washington Community College Student Mathematics Conference",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/fourier_analysis_presentation/";
+            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{
