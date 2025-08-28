@@ -44,7 +44,7 @@ My quantum computing journey began in Spring 2023 when I completed an [undergrad
 I spent the Summer of 2024 studying quantum information science at Brookhaven and Oak Ridge national labs.
 
 In Spring 2025 I created a [framework](https://github.com/Didgety/qpgf) for analyzing the distribution of errors in quantum circuits 
-given real hardware data by utilizing probability generating functions as a final project for a complex systems class.
+given real hardware data by utilizing probability generating functions as a final project for a complex systems class at the University of Vermont.
 
 Most recently, I have been [contributing](https://github.com/Qiskit/qiskit/pull/14827) to the open-source [Qiskit](https://www.ibm.com/quantum/qiskit) project.
 
