@@ -1,200 +1,221 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jai Veilleux",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "veilleux@usc.edu",
+    "phone": "",
+    "url": "https://didgety.github.io",
+    "summary": "A graduate student studying Quantum Information Science at the University of Southern California",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "University of Southern California",
+      "postalCode": "",
+      "city": "Los Angeles",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "The University of Vermont",
+      "position": "Teaching Assistant - CS3240 Algorithm Design & Analysis",
+      "url": "https://www.uvm.edu/",
+      "startDate": "2024-08-01",
+      "endDate": "2025-05-30",
+      "summary": "Grading undergraduate programming and written homework assignments and answering questions about homework and course material.",
+      "highlights": []
+    },
+    {
+      "name": "Brookhaven National Lab",
+      "position": "Student Intern",
+      "url": "https://www.bnl.gov/quantumcenter/",
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-01",
+      "summary": "Month long program developing scientific computing skills relating to quantum computing, including translating problem statements into quantum circuits.",
+      "highlights": []
+    },
+    {
+      "name": "Airship AI",
+      "position": "IT Support Technician",
+      "url": "https://airship.ai/",
+      "startDate": "2021-5-01",
+      "endDate": "2022-7-30",
+      "summary": "Performed root cause analysis of issues on Windows servers. Resolved issues and wrote clear documentation for customers and contractors. Developed automation solutions, reducing/eliminating user input and time spent on repetitive tasks. Proposed and implemented Git server for version control of IT department scripts and programs. Updated and organized outdated internal knowledge base.",
+      "highlights": []
+    },
+    {
+      "name": "The IT Support Center, LLC.",
+      "position": "Tech Advisor",
+      "url": "https://theitsupportcenter.com/",
+      "startDate": "2021-02-01",
+      "endDate": "2021-04-30",
+      "summary": "Resolved customers technology problems in a prompt, professional manner. Researched and developed solutions to unique problems as they arose. Operated in a remote-first environment, supporting users internationally and at home.",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "IBM",
+      "position": "Qiskit Advocate",
+      "url": "https://www.ibm.com/quantum",
+      "startDate": "2025-08-01",
+      "endDate": "",
+      "summary": "Qiskit Advocates contribute to the development of quantum computing education and research, utilizing Qiskit as a platform for hands-on learning and experimentation.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "The University of Southern California",
+      "location": "Los Angeles, CA",
+      "url": "https://www.usc.edu/",
+      "area": "Quantum Information Science",
+      "studyType": "M.S.",
+      "startDate": "2025-08-01",
+      "endDate": "",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": []
+    },
+    {
+      "institution": "The University of Vermont",
+      "location": "Burlington, VT",
+      "url": "https://www.uvm.edu/",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2023-08-01",
+      "endDate": "2025-05-30",
+      "score": "10",
+      "courses": []
+    },
+    {
+      "institution": "Edmonds College",
+      "location": "Lynnwood, WA",
+      "url": "https://www.edmonds.edu/",
+      "area": "Computer Science",
+      "studyType": "A.A.",
+      "startDate": "2021-07-06",
+      "endDate": "2023-06-16",
+      "score": "10",
+      "courses": []
     }
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Practical Introduction to Quantum-Safe Cryptography",
+      "date": "2025-08",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/0f28c653-5a29-43a2-ab97-e1131b089d40/public_url",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Quantum Machine Learning",
+      "date": "2025-08",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/9f3cb688-895b-4f22-b390-7d94bd251e04/public_url",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
+      "name": "Fundamentals of Quantum Algorithms",
+      "date": "2025-08",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "url": "https://www.credly.com/badges/a823ec7f-cf60-4d9d-8187-d48eb7b8c584/public_url",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Basics of Quantum Information",
+      "date": "2025-07",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/054c3614-5dc5-4de6-8b94-374dc283e5ba/public_url",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "US QIS Summer School",
+      "date": "2024-06",
+      "issuer": "Oak Ridge National Laboratory",
+      "url": "/assets/pdf/2024_USQIS_completion_jai.pdf",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Co-Design Center for Quantum Advantage Quantum Computing Summer School",
+      "date": "2024-06",
+      "issuer": "Brookhaven National Laboratory",
+      "url": "/assets/pdf/c2qa_qis_cert_jai",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  // "skills": [
+  //   {
+  //     "name": "Physics",
+  //     "level": "Master",
+  //     "icon": "fa-solid fa-hashtag",
+  //     "keywords": [
+  //       "Quantum Mechanics",
+  //       "Quantum Computing",
+  //       "Quantum Information",
+  //       "Quantum Cryptography",
+  //       "Quantum Communication",
+  //       "Quantum Teleportation"
+  //     ]
+  //   }
+  // ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  // "interests": [
+  //   {
+  //     "name": "Physics",
+  //     "icon": "fa-solid fa-tag",
+  //     "keywords": [
+  //       "Quantum Mechanics",
+  //       "Quantum Computing",
+  //       "Quantum Information",
+  //       "Quantum Cryptography",
+  //       "Quantum Communication",
+  //       "Quantum Teleportation"
+  //     ]
+  //   }
+  // ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "SamplableSet (Rust)",
+      "summary": "Fast weighted sampling using a composition-rejection scheme and dyadic grouping. Rust re-implementation of my professors original C++ code. Includes optional Python and C/CXX bindings.",
+      // "highlights": ["Complex Networks"],
+      "url": "https://github.com/Didgety/samplableset-rs"
+    },
+    {
+      "name": "qpgf",
+      "summary": "Python implementation of my method to analyze the distribution of errors in a quantum circuit given hardware error rates using probability functions.",
+      "url": "https://github.com/Didgety/qpgf"
+    },
+    {
+      "name": "Pine DNS",
+      "summary": "A DNS server capable of handling a variety of record types, using external resolvers, and recursively resolving queries.",
+      "url": "https://github.com/Didgety/pine-dns"
+    },
+    {
+      "name": "Rusted Rogue",
+      "summary": "An ASCII roguelike game written in Rust",
+      "url": "https://github.com/Didgety/rusted_rogue"
     }
   ]
 }
