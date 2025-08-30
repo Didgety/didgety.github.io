@@ -143,14 +143,14 @@
       "date": "2024-06",
       "issuer": "Oak Ridge National Laboratory",
       "url": "/assets/pdf/2024_USQIS_completion_jai.pdf",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-pdf"
     },
     {
       "name": "Co-Design Center for Quantum Advantage Quantum Computing Summer School",
       "date": "2024-06",
       "issuer": "Brookhaven National Laboratory",
-      "url": "/assets/pdf/c2qa_qis_cert_jai",
-      "icon": "fa-solid fa-clipboard-check"
+      "url": "/assets/pdf/c2qa_qis_cert_jai.pdf",
+      "icon": "fa-solid fa-pdf"
     }
   ],
   "publications": [
