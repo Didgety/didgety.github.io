@@ -204,7 +204,7 @@
     },
     {
       "name": "qpgf",
-      "summary": "Python implementation of my method to analyze the distribution of errors in a quantum circuit given hardware error rates using probability functions.",
+      "summary": "Python implementation of my method to analyze the distribution of errors in a quantum circuit given hardware error rates using probability generating functions.",
       "url": "https://github.com/Didgety/qpgf"
     },
     {
