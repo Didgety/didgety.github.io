@@ -111,6 +111,13 @@
   ],
   "certificates": [
     {
+      "name": "Variational Algorithm Design",
+      "date": "2025-09",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/2dce7b51-42dd-4e58-8b70-5c4eea742ce8/public_url",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "Practical Introduction to Quantum-Safe Cryptography",
       "date": "2025-08",
       "issuer": "IBM",
