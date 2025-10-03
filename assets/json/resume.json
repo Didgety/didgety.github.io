@@ -111,11 +111,10 @@
   ],
   "certificates": [
     {
-      "name": "Variational Algorithm Design",
+      "name": "USC Q3 Hackathon 3rd Place",
       "date": "2025-09",
-      "issuer": "IBM",
-      "url": "https://www.credly.com/badges/2dce7b51-42dd-4e58-8b70-5c4eea742ce8/public_url",
-      "icon": "fa-solid fa-clipboard-check"
+      "issuer": "University of Southern California",
+      "icon" : "fa-solid fa-trophy"
     },
     {
       "name": "Practical Introduction to Quantum-Safe Cryptography",
@@ -134,7 +133,7 @@
     {
       "name": "Fundamentals of Quantum Algorithms",
       "date": "2025-08",
-      "issuer": "IBM",
+      "issuer": "Stanford University",
       "url": "https://www.credly.com/badges/a823ec7f-cf60-4d9d-8187-d48eb7b8c584/public_url",
       "icon": "fa-solid fa-clipboard-check"
     },
@@ -150,14 +149,14 @@
       "date": "2024-06",
       "issuer": "Oak Ridge National Laboratory",
       "url": "/assets/pdf/2024_USQIS_completion_jai.pdf",
-      "icon": "fa-solid fa-file-pdf"
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Co-Design Center for Quantum Advantage Quantum Computing Summer School",
       "date": "2024-06",
       "issuer": "Brookhaven National Laboratory",
-      "url": "/assets/pdf/c2qa_qis_cert_jai.pdf",
-      "icon": "fa-solid fa-file-pdf"
+      "url": "/assets/pdf/c2qa_qis_cert_jai",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -204,6 +203,12 @@
   ],
   "projects": [
     {
+      "name" : "C API for Qiskit Circuit Library",
+      "startDate" : "2025-09",
+      "endDate" : "2025-12",
+      "summary" : "Creating the C API for the Qiskit Circuit Library as part of IBM Qiskit Advocate Mentorship Program."
+    },
+    {
       "name": "SamplableSet (Rust)",
       "summary": "Fast weighted sampling using a composition-rejection scheme and dyadic grouping. Rust re-implementation of my professors original C++ code. Includes optional Python and C/CXX bindings.",
       // "highlights": ["Complex Networks"],
@@ -211,7 +216,9 @@
     },
     {
       "name": "qpgf",
-      "summary": "Python implementation of my method to analyze the distribution of errors in a quantum circuit given hardware error rates using probability generating functions.",
+      "startDate" : "2025-1",
+      "endDate" : "2025-5",
+      "summary": "Python implementation of my method to analyze the distribution of errors in a quantum circuit given hardware error rates using probability functions.",
       "url": "https://github.com/Didgety/qpgf"
     },
     {
@@ -223,6 +230,13 @@
       "name": "Rusted Rogue",
       "summary": "An ASCII roguelike game written in Rust",
       "url": "https://github.com/Didgety/rusted_rogue"
+    },
+    {
+      "name" : "Undergraduate Research",
+      "startDate" : "2023-03",
+      "endDate" : "2023-07",
+      "summary" : "At Edmonds College I completed a project implementing an optical network and the BB-84 key-distribution protocol to explore the relationship between distance, error rate, and detection rate in a quantum communication system.",
+      "url" : "https://didgety.github.io/blog/2023/qkd_research_project/"
     }
   ]
 }
