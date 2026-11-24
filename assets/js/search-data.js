@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-a-rusty-dns-server",
+        },{id: "post-when-an-excitation-returns-to-a-qubit",
+        
+          title: "When an excitation returns to a qubit",
+        
+        description: "An IBM Quantum experiment on what happens when a spectator qubit can return an excitation.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/spectator-qubit-dynamics/";
+          
+        },
+      },{id: "post-a-rusty-dns-server",
         
           title: "A Rusty DNS Server",
         
