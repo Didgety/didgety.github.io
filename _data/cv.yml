@@ -1,97 +1,71 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Jai Veilleux
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+  - title: M.S. in Quantum Information Science
+    institution: University of Southern California
+    year: Expected May 2027
+  - title: B.S. in Computer Science
+    institution: University of Vermont
+    year: May 2025
+  - title: A.A. in Computer Science
+    institution: Edmonds College
+    year: June 2023
+- title: Selected projects
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+  - title: <a href="https://github.com/Didgety/q3hack26-team-bells-pair">Temporal calibration for a Steane memory</a>
+    description:
+    - Wrote the Qiskit implementation for Team Bells Pair at Qompute 2026. Simulated repeated correction in a seven-qubit
+      Steane memory, implemented independent calibration circuits, and compared four decoders on held-out records.
+  - title: <a href="/blog/2026/spectator-qubit-dynamics/">Spectator-qubit dynamics on IBM Fez</a>
+    description:
+    - Extended a USC course project into a three-job IBM Fez experiment. Reconstructed a central qubit's state
+      and measured a trace-distance revival under coherent exchange and a decrease in the spectator-reset control.
+  - title: <a href="https://github.com/Qiskit/qiskit/pull/15390">Qiskit circuit library and transpiler</a>
+    description:
+    - Proposed a Rust qDRIFT implementation for the C API and collaborated on its follow-up. Submitted separate
+      changes for delay padding, classical type logic, and Windows library discovery.
+  - title: <a href="/assets/pdf/Jai_Veilleux_CV.pdf">Gate-model QAOA for binary image denoising</a>
+    description:
+    - USC graduate course project. Mapped a restricted Boltzmann machine denoising objective to an Ising Hamiltonian
+      and compared exact optimization, Aer simulation, and IBM hardware.
+  - title: <a href="https://github.com/Didgety/samplableset-rs">SamplableSet for Rust</a>
+    description:
+    - Ported a weighted-sampling data structure from C++ to Rust. Used composition-rejection sampling with dynamically
+      updated weights.
+  - title: <a href="https://github.com/Didgety/qpgf">qpgf</a>
+    description:
+    - UVM course prototype for exploring distributions of assumed gate-error counts with probability generating
+      functions and calibration-derived inputs.
+  - title: <a href="/assets/pdf/Jai_Veilleux_CV.pdf">Independent study in quantum computation</a>
+    description:
+    - Implemented quantum circuit Born machines and a quantum Hamiltonian-based model and presented the project
+      at the December 2024 UVM CS Fair.
+  - title: <a href="/blog/2023/qkd_research_project/">Optical demonstration of BB84</a>
+    description:
+    - Built an Arduino-controlled optical link with software-simulated polarization choices. Presented the project
+      at the Edmonds College Undergraduate Research Symposium.
+- title: Teaching and professional experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+  - title: Teaching Assistant (grader), Algorithm Design and Analysis
+    institution: The University of Vermont
+    description:
+    - Graded programming and written assignments, answered student questions, and flagged assignment issues for
+      course staff.
+  - title: IT Support Technician
+    institution: Airship AI
+    description:
+    - Diagnosed Windows Server issues, automated repetitive support tasks, and set up a Git server for team scripts.
+      Wrote troubleshooting documentation for customers and contractors.
+  - title: Tech Advisor
+    institution: The IT Support Center, LLC.
+    description:
+    - Troubleshot IT issues for customers remotely and documented solutions.
+- title: Recognition and training
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  - Third place, USC Q3 Hackathon (2025)
+  - Qiskit Advocate (since 2025)
+  - C²QA Quantum Computing Summer School, Certificate of Distinction (2024)
+  - U.S. Quantum Information Science Summer School, Oak Ridge (2024)

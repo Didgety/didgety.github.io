@@ -4,6 +4,10 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - Didgety/q3hack26-team-bells-pair
+  - Didgety/oqs-spec-bath
+  - Didgety/q-img-denoise
+  - Didgety/superposition-squad
   - Didgety/samplableset-rs
   - Didgety/qpgf
   - Didgety/rusted_rogue
