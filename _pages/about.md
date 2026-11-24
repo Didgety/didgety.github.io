@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Superposition Specialist</b> (M.S. in QIS student at the University of Southern California)
+subtitle: M.S. student in Quantum Information Science, University of Southern California
 
 profile:
   align: right
@@ -27,27 +27,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my portfolio site. 
+I study what measurements on a quantum processor can tell us about its noise. At USC, I’ve used a second qubit as a small, controlled environment and measured what happens when an excitation flows back into the first. Currently, I am working on implementing and evaluating
+the $\[\[6,4,2\]\]$ and $\[\[8, 6, 2\]\]$
+error correcting codes on IBM superconducting qubits for my Quantum Error Correction final project. I’m interested in doctoral research that connects open quantum systems, quantum error correction, and the software used to test them.
 
-- [Projects](blog/) contains information about my work in a completed or semi-completed state. 
-- [Repositories](repositories/) contains links to my favorite projects source code.  
+## Selected work
 
-I am currently studying a M.S. in Quantum Information Science at the University of Southern California. I previously graduated
-with a B.S. in Computer Science from the University of Vermont, and an A.A. in Computer Science from Edmonds College. 
+**Spectator-qubit dynamics.** I ran a two-qubit exchange experiment on IBM Fez and reconstructed the central qubit’s state for different inputs. In all three jobs, the ground- and excited-input states became more distinguishable as the excitation returned. In the spectator-reset control, their trace distance fell over the same interval. [Experiment and measurements](https://github.com/Didgety/oqs-spec-bath)
 
-My interests lie in quantum computing, distributed computing, networking, and [realtime graphical programming.](blog/2023/chladni_plate_simulation)
+**Quantum error correction.** I wrote the code for Team Bells Pair’s Qompute 2026 project. We studied two noise processes that give a seven-qubit Steane memory the same error-syndrome statistics but favor different recoveries. I implemented Qiskit circuits to distinguish the processes in a separate calibration experiment and compared four decoders on held-out records. [Simulation and results](https://github.com/Didgety/q3hack26-team-bells-pair)
 
-Some of my projects include development of an [efficient weighted sampling data structure](https://github.com/Didgety/samplableset-rs), [DNS server](/blog/2023/dns_server/), and [roguelike videogame](blog/2023/rusted_rogue/) using Rust.
+**QUBO and QAOA.** My team, Superposition Squad, placed third at the 2025 USC Q3 Hackathon for a knapsack optimization project. I helped derive the cost Hamiltonian and wrote the Qiskit code for the hardware runs. For a binary image denoising project, I mapped a restricted Boltzmann machine’s denoising objective to an Ising Hamiltonian and compared exact classical optimization with QAOA in Qiskit Aer and on IBM Quantum. [Hackathon project](https://github.com/Didgety/superposition-squad) · [Image denoising](https://github.com/Didgety/q-img-denoise)
 
-My quantum computing journey began in Spring 2023 when I completed an [undergraduate research project](/blog/2023/qkd_research_project) exploring eavesdropping detection and error rates in optical networks as part of the Edmonds College Physics Department.
+**Qiskit development.** Through the Qiskit Advocate Mentorship Program I worked on a Rust implementation of qDRIFT, a randomized Hamiltonian simulation algorithm, for the C circuit library. I wrote the first proposal and collaborated with my teammate on the follow-up. [My implementation](https://github.com/Qiskit/qiskit/pull/15390) · [Joint follow-up](https://github.com/Qiskit/qiskit/pull/16360)
 
-I spent the Summer of 2024 studying quantum information science at Brookhaven and Oak Ridge national labs.
+I came to quantum computing through an Arduino optics project at Edmonds College, then studied quantum computation independently during my computer science degree at the University of Vermont. Outside of quantum computing, I enjoy generative graphics, winter sports, and live music.
 
-In Spring 2025 I created a [framework](https://github.com/Didgety/qpgf) for analyzing the distribution of errors in quantum circuits 
-given real hardware data by utilizing probability generating functions as a final project for a complex systems class at the University of Vermont.
-
-Most recently, I have been [contributing](https://github.com/Qiskit/qiskit/pull/14827) to the open-source [Qiskit](https://www.ibm.com/quantum/qiskit) project.
-
-Previously, I have worked in IT support where I developed automation tools and infrastructure in addition to handling regular support tickets (2021 - 2022). My position required lots of network debugging and use of REST API's.
-
-In my free time I enjoy creating realtime generative artworks, getting out in nature, winter sports, going to concerts, and trying new foods.
+[Academic CV]({% link _pages/cv.md %}) · [Resume (PDF)]({% link assets/pdf/Jai_Veilleux_Resume.pdf %}) · [Projects]({{ '/blog/' | relative_url }})

@@ -4,8 +4,9 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: # example_pdf.pdf # you can also use external links here # TODO add a cv pdf
-description: 
+cv_pdf: Jai_Veilleux_CV.pdf
+description:
+# '<a href="/assets/pdf/Jai_Veilleux_CV.pdf">Download academic CV (PDF)</a> · <a href="/assets/pdf/Jai_Veilleux_Resume.pdf">Download resume (PDF)</a>'
 toc:
   sidebar: left
 ---
