@@ -36,12 +36,7 @@
       "studyType": "M.S.",
       "startDate": "2025-08-01",
       "endDate": "",
-      "courses": [
-        "Theory of Open Quantum Systems",
-        "Quantum Error Correction",
-        "Quantum Devices",
-        "Applications of Quantum Computing"
-      ],
+      "courses": ["Theory of Open Quantum Systems", "Quantum Error Correction", "Quantum Devices", "Applications of Quantum Computing"],
       "score": "3.60/4.00"
     },
     {
@@ -91,9 +86,7 @@
       "name": "Qiskit circuit library and transpiler",
       "summary": "Proposed a Rust qDRIFT implementation for the C API and collaborated on its follow-up. Submitted separate changes for delay padding, classical type logic, and Windows library discovery.",
       "url": "https://github.com/Qiskit/qiskit/pull/15390",
-      "highlights": [
-        "<a href=\"https://github.com/Qiskit/qiskit/pull/16360\">Collaborative qDRIFT follow-up</a>"
-      ],
+      "highlights": ["<a href=\"https://github.com/Qiskit/qiskit/pull/16360\">Collaborative qDRIFT follow-up</a>"],
       "startDate": "2025-11"
     },
     {
